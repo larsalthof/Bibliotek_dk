@@ -1,6 +1,12 @@
 
 
 # Bibliotek (library)
+
+> **Personal development fork:** [larsalthof/Bibliotek_dk](https://github.com/larsalthof/Bibliotek_dk)
+> is used for personal development and contributions to the upstream project.
+> Contributions are not accepted in this fork. Please submit issues and pull
+> requests to [TermeHansen/Bibliotek_dk](https://github.com/TermeHansen/Bibliotek_dk).
+
 ![image](https://user-images.githubusercontent.com/54498188/220741705-0e2aec42-e582-4161-ad13-d66e537c5272.png)
 ## Home Assistant custom integration for all public libraries in Denmark
 ## Installation

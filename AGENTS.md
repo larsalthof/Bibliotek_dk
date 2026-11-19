@@ -2,6 +2,16 @@
 
 Guidance for AI coding agents working in this repository.
 
+## Personal fork policy (larsalthof/Bibliotek_dk only)
+
+- The personal-fork notice in README.md and this policy belong only on the
+  fork's `main` branch. Never include them in upstream pull requests.
+- Create contribution branches from `upstream/main` or an existing clean
+  contribution branch, never from the fork's `main`. Do not merge the fork's
+  `main` into contribution branches; cherry-pick only relevant feature commits.
+- Before opening or updating an upstream PR, check the complete diff against
+  its upstream base and confirm that no personal-fork notice or policy is present.
+
 ## What this is
 
 A Home Assistant **custom integration** (HACS) that exposes Danish public
